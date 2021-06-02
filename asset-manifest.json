@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Planet/static/css/main.da9da871.chunk.css",
+    "main.js": "/Planet/static/js/main.ad282772.chunk.js",
+    "main.js.map": "/Planet/static/js/main.ad282772.chunk.js.map",
+    "runtime-main.js": "/Planet/static/js/runtime-main.f9da4ffb.js",
+    "runtime-main.js.map": "/Planet/static/js/runtime-main.f9da4ffb.js.map",
+    "static/js/2.e68cc38a.chunk.js": "/Planet/static/js/2.e68cc38a.chunk.js",
+    "static/js/2.e68cc38a.chunk.js.map": "/Planet/static/js/2.e68cc38a.chunk.js.map",
+    "static/js/3.925f2d9f.chunk.js": "/Planet/static/js/3.925f2d9f.chunk.js",
+    "static/js/3.925f2d9f.chunk.js.map": "/Planet/static/js/3.925f2d9f.chunk.js.map",
+    "index.html": "/Planet/index.html",
+    "static/css/main.da9da871.chunk.css.map": "/Planet/static/css/main.da9da871.chunk.css.map",
+    "static/js/2.e68cc38a.chunk.js.LICENSE.txt": "/Planet/static/js/2.e68cc38a.chunk.js.LICENSE.txt",
+    "static/media/background.161cceac.png": "/Planet/static/media/background.161cceac.png",
+    "static/media/earth.a2411c71.png": "/Planet/static/media/earth.a2411c71.png",
+    "static/media/earth1.f3367d3d.png": "/Planet/static/media/earth1.f3367d3d.png",
+    "static/media/foreground.93438d9a.png": "/Planet/static/media/foreground.93438d9a.png",
+    "static/media/jupiter.1fdab901.png": "/Planet/static/media/jupiter.1fdab901.png",
+    "static/media/mars.9c5020a3.png": "/Planet/static/media/mars.9c5020a3.png",
+    "static/media/mercury.b191b1e3.png": "/Planet/static/media/mercury.b191b1e3.png",
+    "static/media/mid.cc110485.png": "/Planet/static/media/mid.cc110485.png",
+    "static/media/neptune.213919e4.png": "/Planet/static/media/neptune.213919e4.png",
+    "static/media/rock.2648bdcc.png": "/Planet/static/media/rock.2648bdcc.png",
+    "static/media/saturn.1726ec04.png": "/Planet/static/media/saturn.1726ec04.png",
+    "static/media/uranus.bdc1c0d0.png": "/Planet/static/media/uranus.bdc1c0d0.png",
+    "static/media/venus.2ee77fc7.png": "/Planet/static/media/venus.2ee77fc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9da4ffb.js",
+    "static/js/2.e68cc38a.chunk.js",
+    "static/css/main.da9da871.chunk.css",
+    "static/js/main.ad282772.chunk.js"
+  ]
+}
