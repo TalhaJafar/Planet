@@ -1,4 +1,5 @@
 {
+  "homepage": "http://TalhaJafar.github.io/planets",
   "name": "planets",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "file-loader": "^6.2.0",
+    "gh-pages": "^3.2.0",
     "gsap": "^3.6.1",
     "parallax-js": "^3.1.0",
     "react": "^17.0.2",
@@ -16,6 +18,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
